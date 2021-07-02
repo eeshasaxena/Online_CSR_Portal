@@ -1,0 +1,57 @@
+a{color:rgb(80, 200, 120)}
+.header_top{background-color:#f8f8f8; border-bottom:2px solid rgb(80, 200, 120)}
+.navbar-default .navbar-nav > li > a{color:rgb(80, 200, 120)}
+.navbar-default .navbar-nav > li > a:hover{background-color:rgb(80, 200, 120); color:black}
+#searchIcon{background-color:rgb(80, 200, 120); color:black}
+#searchIcon:hover{opacity:0.75}
+.navbar-toggle{background-color:rgb(80, 200, 120); border-color:rgb(80, 200, 120)}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background-color:rgb(80, 200, 120); opacity:0.75}
+.navbar-default .navbar-toggle .icon-bar{background-color:black}
+.latest_newsarea{border-bottom:2px solid rgb(80, 200, 120); border-top:2px solid rgb(80, 200, 120)}
+.latest_newsarea span{background-color:rgb(80, 200, 120); color:black}
+.latest_newsarea span:after, .latest_newsarea span:before{left:100%; top:50%; border:solid transparent; content:""; height:0; width:0; position:absolute; pointer-events:none}
+.latest_newsarea span:after{border-color:rgba(0,153,204,0); border-left-color:rgb(80, 200, 120); border-width:10px; margin-top:-10px}
+.latest_newsarea span:before{border-color:rgba(0,153,204,0); border-left-color:rgb(80, 200, 120); border-width:11px; margin-top:-11px}
+.news_sticker li a:before{color:rgb(80, 200, 120)}
+.single_leftbar > h2 span{background-color:rgb(80, 200, 120)}
+.recent_title:before{color:rgb(80, 200, 120)}
+.right_slide{background:none repeat scroll 0 0 rgb(80, 200, 120); color:black}
+.left_slide:hover, .right_slide:hover, .left_slide:focus, .right_slide:focus{background-color:black; color:rgb(80, 200, 120)}
+.carousel-indicators .active{background-color:rgb(80, 200, 120)}
+.catg_title:before{color:rgb(80, 200, 120)}
+.category_title a{background-color:rgb(80, 200, 120); color:black}
+.category_title a:hover{background-color:rgb(80, 200, 120); color:black; text-decoration:none}
+.sing_commentbox > p:hover{color:rgb(80, 200, 120)}
+.sing_commentbox > a:hover{color:rgb(80, 200, 120)}
+.label_nav li a:hover{background-color:rgb(80, 200, 120); color:#eee; border-color:rgb(80, 200, 120)}
+.single_footer_top > h2{border-bottom:5px solid rgb(80, 200, 120)}
+.subscribe_mail i{color:rgb(80, 200, 120)}
+.submit_btn{background-color:rgb(80, 200, 120); color:black}
+.submit_btn:hover, .send_btn:hover{background-color:rgb(80, 200, 120); color:#eee}
+.footer_labels li a:hover, .footer_labels li a:focus{background-color:rgb(80, 200, 120)}
+.send_btn{background-color:rgb(80, 200, 120) !important; color:black}
+.send_btn:hover{background-color:rgb(80, 200, 120) !important; color:#eee}
+.tooltip-inner{border-bottom:3px solid rgb(80, 200, 120)}
+.tooltip.top .tooltip-arrow{border-left:5px solid transparent; border-right:5px solid transparent; border-top:5px solid rgb(80, 200, 120)}
+.scrollToTop{background:none repeat scroll 0 0 rgb(80, 200, 120); border:1px solid black; color:black; border-radius:5px}
+.scrollToTop:hover, .scrollToTop:focus{background-color:black; border-color:rgb(80, 200, 120); color:rgb(80, 200, 120) !important}
+.link_nav li a{color:rgb(80, 200, 120)}
+.link_nav li a:before{color:rgb(80, 200, 120)}
+.read_more{background-color:rgb(80, 200, 120); color:black}
+.read_more:hover, .read_more:focus{color:black; background-color:#111}
+.author_name:hover, .author_name:focus, .post_date:hover, .post_date:focus{color:rgb(80, 200, 120)}
+.single_post_area .author_name, .single_post_area .post_date{color:rgb(80, 200, 120)}
+.single_post_area .author_name:hover, .single_post_area .post_date:hover{color:#444}
+.single_post_area .author_name i, .post_date i{color:#252525}
+.post_title{border-color:rgb(80, 200, 120); color:#555}
+.related_post > h2 i{color:rgb(80, 200, 120)}
+.single_post_content ul li:before{color:rgb(80, 200, 120)}
+.custom-tabs{background:none repeat scroll 0 0 rgb(80, 200, 120)}
+.custom-tabs > li > a:hover{background-color:rgb(80, 200, 120); color:black}
+.custom-tabs > li.active > a, .custom-tabs > li.active > a:hover, .custom-tabs > li.active > a:focus{border-top:3px solid rgb(80, 200, 120)}
+.left_slide{background:none repeat scroll 0 0 rgb(80, 200, 120)}
+.footer_top{border-top:5px solid rgb(80, 200, 120)}
+.slick-prev, .slick-next{background:none repeat scroll 0 0 rgb(80, 200, 120); color:black}
+.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus{background:black; color:rgb(80, 200, 120) !important}
+.single_post_content blockquote{border-color:rgb(80, 200, 120)}
+.error_content a:hover{background-color:rgb(80, 200, 120)}
